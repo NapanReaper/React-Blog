@@ -1,6 +1,6 @@
 To get started 
 
-npm start
+npm i && npm start
 
 npx json-server --watch data/db.json --port 8000 
 
